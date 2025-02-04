@@ -2,7 +2,15 @@
   <img src="assets/icon128.png" alt="DeepSeek Chatbot Icon" width="128">
 </p>
 
-# DeepSeek Chatbot – Smarter Conversations, Efficient Workflows
+<h1 align="center">DeepSeek Chatbot – Smarter Conversations, Efficient Workflows</h1>
+
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl" target="_blank">
+    <button style="background-color:#0078D7; border:none; padding:12px 24px; font-size:16px; color:white; border-radius:6px; cursor:pointer;">
+      ➤ Install DeepSeek Chatbot Now
+    </button>
+  </a>
+</p>
 
 DeepSeek Chatbot is a **powerful AI assistant that integrates directly into your browser**, providing real-time assistance for writing, coding, research, and productivity.  
 Designed to streamline digital tasks, it offers **fast, structured responses** tailored to different needs.
@@ -131,8 +139,8 @@ A: No, an internet connection is required for AI-powered responses.
 
 ## Resources and Additional Information  
 
-- **Get DeepSeek Chatbot on Chrome Web Store**: [Click here](https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl)  
-- **Official GitHub Repository**: [Explore code and updates](https://github.com/egmalt/deepseek-chatbot)  
+- **[Get DeepSeek Chatbot on Chrome Web Store](https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl)**  
+- **[Official GitHub Repository](https://github.com/egmalt/deepseek-chatbot)**  
 
 ---
 
@@ -142,4 +150,9 @@ DeepSeek Chatbot **eliminates manual effort, speeds up research, enhances writin
 Whether you need **instant text generation, structured content, or AI-powered coding solutions**, this tool **adapts to your workflow and increases efficiency**.
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl" style="background-color:#2d89ef; padding: 12px 20px; color: white; border-radius:
+  <a href="https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl" target="_blank">
+    <button style="background-color:#28A745; border:none; padding:12px 24px; font-size:16px; color:white; border-radius:6px; cursor:pointer;">
+      ➤ Try DeepSeek Chatbot Now
+    </button>
+  </a>
+</p>
