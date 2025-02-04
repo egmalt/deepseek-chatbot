@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon128.png" alt="DeepSeek Chatbot Icon" width="128">
+  <img src="assets/logo-128.png" alt="DeepSeek Chatbot Icon" width="128">
 </p>
 
 <h1 align="center">DeepSeek Chatbot – Smarter Conversations, Efficient Workflows</h1>
