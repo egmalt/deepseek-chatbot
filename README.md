@@ -5,7 +5,7 @@
 <h1 align="center">DeepSeek Chatbot – Smarter Conversations, Efficient Workflows</h1>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl" target="_blank">
+  <a href="https://chromewebstore.google.com/detail/deepseek-%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82/pdelkboclbhloajmmkeklnnmabpkdaai" target="_blank">
     <button style="background-color:#0078D7; border:none; padding:12px 24px; font-size:16px; color:white; border-radius:6px; cursor:pointer;">
       ➤ Install DeepSeek Chatbot Now
     </button>
@@ -33,7 +33,7 @@ DeepSeek Chatbot is designed to help **students, professionals, and developers**
 
 ## How to Start Using DeepSeek Chatbot  
 
-1. **Install the Extension** – [Download from the Chrome Web Store](https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl).  
+1. **Install the Extension** – [Download from the Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82/pdelkboclbhloajmmkeklnnmabpkdaai).  
 2. **Pin it to Your Toolbar** – Keep it easily accessible.  
 3. **Type Your Request** – Use it for writing, research, and coding in real time.  
 
@@ -139,7 +139,7 @@ A: No, an internet connection is required for AI-powered responses.
 
 ## Resources and Additional Information  
 
-- **[Get DeepSeek Chatbot on Chrome Web Store](https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl)**  
+- **[Get DeepSeek Chatbot on Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82/pdelkboclbhloajmmkeklnnmabpkdaai)**  
 - **[Official GitHub Repository](https://github.com/egmalt/deepseek-chatbot)**  
 
 ---
@@ -150,7 +150,7 @@ DeepSeek Chatbot **eliminates manual effort, speeds up research, enhances writin
 Whether you need **instant text generation, structured content, or AI-powered coding solutions**, this tool **adapts to your workflow and increases efficiency**.
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl" target="_blank">
+  <a href="[https://chromewebstore.google.com/detail/deepseek/gohgeedemmaohocbaccllpkabadoogpl](https://chromewebstore.google.com/detail/deepseek-%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82/pdelkboclbhloajmmkeklnnmabpkdaai)" target="_blank">
     <button style="background-color:#28A745; border:none; padding:12px 24px; font-size:16px; color:white; border-radius:6px; cursor:pointer;">
       ➤ Try DeepSeek Chatbot Now
     </button>
